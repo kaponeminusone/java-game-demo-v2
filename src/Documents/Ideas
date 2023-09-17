@@ -1,0 +1,4 @@
+
+En la clase para personalizar las colisiones, lo que puedo hacer, es crear
+un editor de colaiders, donde se guarde la informacion de la textura y su configuracion de tamaño
+para luego usarlo en el "juego", pero esto es mas avanzado (no Flappy).
